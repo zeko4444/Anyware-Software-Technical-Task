@@ -62,10 +62,14 @@ This is a full-stack web application built with **Node.js** for the backend and 
 
 #### For Backend:
 
+```bash
 cd backend
 npm install
+```
 
 #### For Frontend:
 
+```bash
 cd backend
 npm install
+```
